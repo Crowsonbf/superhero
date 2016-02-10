@@ -1,0 +1,30 @@
+h1 {
+    color: #ff99ff;
+    font-size: 54px;
+    
+}    
+h3 {
+    Color: #e5e600;
+    background-color: #1D7896;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    border: 2px solid Blue;
+    
+    
+}
+li {
+    color: #595959;
+    font-family: cursive;
+    font-size: 25px;
+    
+}
+table {
+    border: 1px solid black;
+    
+}
+
+.Top {
+  border: 15px blue solid
+    
+}
